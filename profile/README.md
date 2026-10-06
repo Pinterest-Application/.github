@@ -8,14 +8,14 @@ application using modern backend technologies and microservices architecture.
 ## 👨‍💻 Team
 
 ### Talib Aliyev
-Backend Developer
+Software Engineer
 
-Java • Spring Boot • PostgreSQL • Redis • Kafka • Docker
+Java • Spring Boot • PostgreSQL • Keycloak • Kafka • OAUTH 2.0 • Seaweedfs • Vault
 
 ### Fuad
-Backend Developer
+Frontend/Backend Developer
 
-Java • Spring Boot • PostgreSQL • Docker
+Java • Spring Boot • PostgreSQL
 
 ## 🏗 Architecture
 
@@ -26,7 +26,7 @@ Our application follows a microservices architecture.
 - `gw-branch` — API Gateway
 - `ms-auth` — Authentication
 - `ms-account` — Account management
-- `ms-document` — Document management
+- `ms-document` — Document management (don't release)
 - `ms-media` — Media management
 - `ms-pin` — Pin management
 - `ms-discovery` — Service Discovery
@@ -35,14 +35,20 @@ Our application follows a microservices architecture.
 
 Java  
 Spring Boot  
-PostgreSQL  
-Redis  
+Microservice Architecture
+PostgreSQL
+Caffeine Cache
 Kafka  
-Docker  
-Keycloak  
+Coolify 
+Keycloak
+Vault
+BugSink
+Nexus
+Github Actions flow
 Seaweedfs  
 Cloudflare  
 Tailscale
+...
 
 ---
 
