@@ -7,15 +7,11 @@ application using modern backend technologies and microservices architecture.
 
 ## 👨‍💻 Team
 
-### Talib Aliyev
-Software Engineer
+### Talib Aliyev @alyvswag
+Software Engineer 
 
-Java • Spring Boot • PostgreSQL • Keycloak • Kafka • OAUTH 2.0 • Seaweedfs • Vault
-
-### Fuad
-Frontend/Backend Developer
-
-Java • Spring Boot • PostgreSQL
+### Fuad Damirchiyev @fuaddm
+Frontend/Backend Developer 
 
 ## 🏗 Architecture
 
