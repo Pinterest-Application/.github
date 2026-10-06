@@ -7,11 +7,11 @@ application using modern backend technologies and microservices architecture.
 
 ## 👨‍💻 Team
 
-### Talib Aliyev @alyvswag
-Software Engineer 
+### [Talib Aliyev](https://github.com/alyvswag)
+**Software Engineer**
 
-### Fuad Damirchiyev @fuaddm
-Frontend/Backend Developer 
+### [Fuad Damirchiyev](https://github.com/fuaddm)
+**Frontend / Backend Developer**
 
 ## 🏗 Architecture
 
