@@ -60,6 +60,7 @@ file save architecture
 
 generally architecture
 <img width="1704" height="964" alt="image" src="https://github.com/user-attachments/assets/a9fc1ba5-ff09-4d2c-bbc7-60f7e693e3bb" />
-![Uploading image.png…]()
+<img width="2594" height="1828" alt="image" src="https://github.com/user-attachments/assets/5db0d886-ea22-4db0-87e2-8f6f413a7402" />
+
 
 
