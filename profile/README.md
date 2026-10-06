@@ -46,4 +46,11 @@ Tailscale
 
 ---
 
-Built with ❤️ by the Pinterest Application team
+FILES:
+<img width="1550" height="694" alt="image" src="https://github.com/user-attachments/assets/8d4e8778-5b66-4cd2-887b-69214d81900f" />
+
+----
+
+
+<img width="1704" height="964" alt="image" src="https://github.com/user-attachments/assets/a9fc1ba5-ff09-4d2c-bbc7-60f7e693e3bb" />
+
