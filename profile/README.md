@@ -29,22 +29,31 @@ Our application follows a microservices architecture.
 
 ## 🛠 Tech Stack
 
-Java  
-Spring Boot  
-Microservice Architecture
-PostgreSQL
-Caffeine Cache
-Kafka  
-Coolify 
-Keycloak
-Vault
-BugSink
-Nexus
-Github Actions flow
-Seaweedfs  
-Cloudflare  
-Tailscale
-...
+### Backend
+- Java
+- Spring Boot
+- Microservices Architecture
+- PostgreSQL
+- Caffeine Cache
+- Apache Kafka
+
+### Security & Configuration
+- Keycloak
+- HashiCorp Vault
+
+### Infrastructure & Deployment
+- Coolify
+- Docker
+- SeaweedFS
+- Cloudflare
+- Tailscale
+
+### Development & CI/CD
+- GitHub Actions
+- Nexus Repository
+
+### Monitoring & Error Tracking
+- BugSink
 
 ---
 
